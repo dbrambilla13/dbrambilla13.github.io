@@ -1,5 +1,11 @@
 # Daniele Brambilla
 
+## Info
+
+Data Science &bull; Machine Learning &bull; Deep Learning &bull; Web Development @ [TheProphetAI](https:///www.theprophetai.com)
+
+<!-- ## Work Projects -->
+
 ## Personal Projects
 
 ### Denoising Shabby Pages
